@@ -1,8 +1,8 @@
 # Ray Kim's Awesome Papers
-The papers that made stay awake at night.
+The papers that made me stay awake all night long.
 Let me know if you have anything interesting to share!
 
-# Interests
+## Interests
 * High-Performance Computing
 * Probabilistic Machine Learning
 * Computational Statistics
@@ -13,7 +13,7 @@ Let me know if you have anything interesting to share!
 * Computer Vision
 * Image Processing
 
-# Awesome Papers
+## Awesome Papers
 * Blei, David M., Andrew Y. Ng, and Michael I. Jordan. "Latent dirichlet allocation." Journal of machine Learning research 3.Jan (2003): 993-1022.
 * Regier, Jeffrey, et al. "Approximate Inference for Constructing Astronomical Catalogs from Images." arXiv preprint arXiv:1803.00113 (2018).
 * Shanbhag, Naresh R., et al. "Shannon-inspired statistical computing for the nanoscale era." Proceedings of the IEEE 107.1 (2019): 90-107.
