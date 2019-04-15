@@ -26,4 +26,5 @@ Let me know if you have anything interesting to share!
 * Jordan, Michael I. "Dynamical, Symplectic and Stochastic Perspectives on Gradient-Based Optimization." University of California, Berkeley (2018).
 * Ulyanov, Dmitry, Andrea Vedaldi, and Victor Lempitsky. "Deep image prior." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 
 * Fuchs, Adi, and David Wentzlaff. "The Accelerator Wall: Limits of Chip Specialization." 2019 IEEE International Symposium on High Performance Computer Architecture (HPCA). IEEE, 2019.
+* Solnik, Benjamin, et al. "Bayesian Optimization for a Better Dessert." (2017).
 
