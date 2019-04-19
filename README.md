@@ -23,6 +23,8 @@ Let me know if you have anything interesting to share!
 * Hammernik, Kerstin, et al. ["Learning a variational network for reconstruction of accelerated MRI data."](https://arxiv.org/abs/1704.00447) Magnetic resonance in medicine 79.6 (2018): 3055-3071.
 * Fuchs, Adi, and David Wentzlaff. ["The Accelerator Wall: Limits of Chip Specialization."](http://parallel.princeton.edu/papers/wall-hpca19.pdf) 2019 IEEE International Symposium on High Performance Computer Architecture (HPCA). IEEE, 2019.
 * Ulyanov, Dmitry, Andrea Vedaldi, and Victor Lempitsky. ["Deep image prior."](https://arxiv.org/abs/1711.10925) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 
+    * Follow-up research
+        *Zezhou Cheng, Matheus Gadelha, Subhransu Maji, Daniel Sheldon. ["A Bayesian Perspective on the Deep Image Prior"](https://arxiv.org/abs/1904.07457). Accepted for CVPR 2019.
 * Licht, Johannes de Fine, Simon Meierhans, and Torsten Hoefler. ["Transformations of High-Level Synthesis Codes for High-Performance Computing."](https://arxiv.org/abs/1805.08288) arXiv preprint arXiv:1805.08288 (2018).
 * Kendall, Alex, and Yarin Gal. ["What uncertainties do we need in bayesian deep learning for computer vision?."](https://arxiv.org/abs/1703.04977) Advances in neural information processing systems. 2017.
 * Boyd, Stephen, et al. ["Distributed optimization and statistical learning via the alternating direction method of multipliers."](http://web.stanford.edu/~boyd/papers/admm_distr_stats.html) Foundations and Trends® in Machine learning 3.1 (2011): 1-122.
