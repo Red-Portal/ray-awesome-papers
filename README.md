@@ -31,5 +31,9 @@ Let me know if you have anything interesting to share!
     * [Microsoft Research Talk](https://www.youtube.com/watch?v=Xg0ozgCXXB8)
 * Jordan, Michael I. ["Dynamical, Symplectic and Stochastic Perspectives on Gradient-Based Optimization."](https://eta.impa.br/dl/PL012.pdf) University of California, Berkeley (2018).
     * [ICM 2018 Talk](https://www.youtube.com/watch?v=wXNWVhE2Dl4)
+* Kruskal, Clyde P., and Alan Weiss. ["Allocating independent subtasks on parallel processors."](https://ieeexplore.ieee.org/abstract/document/1701915) IEEE Transactions on Software engineering 10 (1985): 1001-1016.
+    * Follow-up research
+        * Bast, Hannah. [Phd Thesis](http://ad.informatik.uni-freiburg.de/files/phd-thesis-hannah-bast.pdf/view?set_language=en), 2000
 * Solnik, Benjamin, et al. ["Bayesian Optimization for a Better Dessert."](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf) (2017).
+
 
