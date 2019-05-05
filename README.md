@@ -28,6 +28,7 @@ Let me know if you have anything interesting to share!
     * *Shannon communication theory can sometimes be applied in very unexpected places. This paper discusses applying communication theory to circuits with undeterministic, probabilistic transmissions.*
     
 * Ungar, David, and Sam S. Adams. [**"Harnessing emergence for manycore programming: early experience integrating ensembles, adverbs, and object-based inheritance."**](https://dl.acm.org/citation.cfm?id=1869546) Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion. ACM, 2010.
+    * [STI Conference Presentation](https://youtu.be/GBtqQwcJoN0)
     
 * Thompson, Neil, and Svenja Spanuth. [**"The Decline of Computers As a General Purpose Technology: Why Deep Learning and the End of Moore’s Law are Fragmenting Computing."**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3287769) Available at SSRN 3287769 (2018).
     * *A summary of the specialized, heterogeneous computing paradigm.*
