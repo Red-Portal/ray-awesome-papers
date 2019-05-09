@@ -18,6 +18,7 @@ Let me know if you have anything interesting to share!
     * *A beautifully simple and powerful example of applying probabilistic graphical modeling and variational inference. One of my favorite. This paper completely sold me on probabilistic machine learning.*
 
 * Chaney, Allison, et al. [**"Detecting and characterizing events."**](http://dirichlet.net/pdf/chaney16detecting.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016.
+    * An application of topic modelling and probabilistic graphical models for historians. We can see that probabilistic graphical models can be effectively used in a wide range of domains.
 
 * Regier, Jeffrey, et al. [**"Approximate Inference for Constructing Astronomical Catalogs from Images."**](https://arxiv.org/abs/1803.00113) arXiv preprint arXiv:1803.00113 (2018).
     * [Juliacon 2017 Talk](https://juliacomputing.com/case-studies/celeste.html)
