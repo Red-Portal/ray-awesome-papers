@@ -18,7 +18,7 @@ Let me know if you have anything interesting to share!
     * *A beautifully simple and powerful example of applying probabilistic graphical modeling and variational inference. One of my favorite. This paper completely sold me on probabilistic machine learning.*
 
 * Chaney, Allison, et al. [**"Detecting and characterizing events."**](http://dirichlet.net/pdf/chaney16detecting.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016.
-    * An application of topic modelling and probabilistic graphical models for historians. We can see that probabilistic graphical models can be effectively used in a wide range of domains.
+    * *An application of topic modelling and probabilistic graphical models for historians. We can see that probabilistic graphical models can be effectively used in a wide range of domains.*
 
 * Regier, Jeffrey, et al. [**"Approximate Inference for Constructing Astronomical Catalogs from Images."**](https://arxiv.org/abs/1803.00113) arXiv preprint arXiv:1803.00113 (2018).
     * [Juliacon 2017 Talk](https://juliacomputing.com/case-studies/celeste.html)
@@ -62,5 +62,6 @@ Let me know if you have anything interesting to share!
         * Bast, Hannah. [Ph.D. Thesis](http://ad.informatik.uni-freiburg.de/files/phd-thesis-hannah-bast.pdf/view?set_language=en), 2000
         
 * Solnik, Benjamin, et al. [**"Bayesian Optimization for a Better Dessert."**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf) (2017).
+    * *Bayesian optimization (BO) can be applied to objective functions that we're previously unimagineable to optimize. This is a very interesting exmaple where BO optimizes the 'utility function' of cookie eaters. Human utility is obviously not differentiable and extremly noisy. Despite these difficulties, BO was able to find an optimal (tasty) cookie a recipe*
 
 
