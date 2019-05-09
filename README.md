@@ -62,6 +62,6 @@ Let me know if you have anything interesting to share!
         * Bast, Hannah. [Ph.D. Thesis](http://ad.informatik.uni-freiburg.de/files/phd-thesis-hannah-bast.pdf/view?set_language=en), 2000
         
 * Solnik, Benjamin, et al. [**"Bayesian Optimization for a Better Dessert."**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf) (2017).
-    * *Bayesian optimization (BO) can be applied to objective functions that we're previously unimagineable to optimize. This is a very interesting exmaple where BO optimizes the 'utility function' of cookie eaters. Human utility is obviously not differentiable and extremly noisy. Despite these difficulties, BO was able to find an optimal (tasty) cookie a recipe*
+    * *Bayesian optimization (BO) can be applied to objective functions that were previously unimagineable to optimize. This is a very interesting example where BO optimizes the 'utility function' of cookie eaters. Human utility is obviously not differentiable and notoriously noisy. Despite these difficulties, BO was able to find an optimal (tasty) cookie recipe*
 
 
