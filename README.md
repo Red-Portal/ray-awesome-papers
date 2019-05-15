@@ -63,5 +63,7 @@ Let me know if you have anything interesting to share!
         
 * Solnik, Benjamin, et al. [**"Bayesian Optimization for a Better Dessert."**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf) (2017).
     * *Bayesian optimization (BO) can be applied to objective functions that were previously unimagineable to optimize. This is a very interesting example where BO optimizes the 'utility function' of cookie eaters. Human utility is obviously not differentiable and notoriously noisy. Despite these difficulties, BO was able to find an optimal (tasty) cookie recipe*
+    
+* Maddix, Danielle C., Yuyang Wang, and Alex Smola. [**"Deep Factors with Gaussian Processes for Forecasting."**](https://arxiv.org/abs/1812.00098) arXiv preprint arXiv:1812.00098 (2018). Accepted for ICML'19.
 
 
