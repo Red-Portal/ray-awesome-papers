@@ -63,3 +63,7 @@ Let me know if you have anything interesting to share!
         
 * Solnik, Benjamin, et al. [**"Bayesian Optimization for a Better Dessert."**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf) (2017).
     * *Bayesian optimization (BO) can be applied to objective functions that were previously unimagineable to optimize. This is a very interesting example where BO optimizes the 'utility function' of cookie eaters. Human utility is obviously not differentiable and notoriously noisy. Despite these difficulties, BO was able to find an optimal (tasty) cookie recipe*
+    
+* Dai, Z., Yu, H., Low, B.K.H. & Jaillet, P.. (2019). [**Bayesian Optimization Meets Bayesian Optimal Stopping**](http://proceedings.mlr.press/v97/dai19a.html). Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:1496-1506
+    * Bayesian optimal stopping is applied to Bayesian Optimization for Deep Learning hyperparameters tuning. A very simple but powerful solution that have strong theoretical foundations.
+
