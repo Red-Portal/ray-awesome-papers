@@ -5,7 +5,7 @@ Let me know if you have anything interesting to share!
 ## Interests
 * High-Performance Computing
 * Probabilistic Machine Learning
-* Computational Statistics
+* Bayesian Statistics
 * Numerical Analysis
 * Computational Linear Algebra
 * Heterogeneous, Specialized Hardware
@@ -16,6 +16,9 @@ Let me know if you have anything interesting to share!
 ## Awesome Papers
 * Blei, David M., Andrew Y. Ng, and Michael I. Jordan. [**"Latent dirichlet allocation."**](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) Journal of machine Learning research 3.Jan (2003): 993-1022.
     * *A beautifully simple and powerful example of applying probabilistic graphical modeling and variational inference. One of my favorite. This paper completely sold me on probabilistic machine learning.*
+    
+* Neal, Radford M. [**"Bayesian learning for neural networks."**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) Vol. 118. Springer Science & Business Media, 2012.
+    * *Haven't read it all yet, but already one of my favorite. Neal reviews and constructs a Bayesian perspective of neural networks and performs Bayesian inference.*
 
 * Chaney, Allison, et al. [**"Detecting and characterizing events."**](http://dirichlet.net/pdf/chaney16detecting.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016.
     * *An application of topic modelling and probabilistic graphical models for historians. We can see that probabilistic graphical models can be effectively used in a wide range of domains.*
