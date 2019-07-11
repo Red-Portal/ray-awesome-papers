@@ -56,6 +56,13 @@ Let me know if you have anything interesting to share!
 * Boyd, Stephen, et al. [**"Distributed optimization and statistical learning via the alternating direction method of multipliers."**](http://web.stanford.edu/~boyd/papers/admm_distr_stats.html) Foundations and Trends® in Machine learning 3.1 (2011): 1-122.
     * [Microsoft Research Talk](https://www.youtube.com/watch?v=Xg0ozgCXXB8)
     
+* Qiang Liu and Dilin Wang. 2016. [**"Stein variational Gradient descent: a general purpose Bayesian inference algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16)
+    * *A recently developed Variational Inference (VI) method. It combines the flavor of particle filter sequential monte carlo methods with VI.*
+    * [Interactive demo](https://chi-feng.github.io/mcmc-demo/app.html). Select *SVGD* for the algorithm.
+    * Follow-up works
+        * Han, J. & Liu, Q.. (2018). [**"Stein Variational Gradient Descent Without Gradient."**](http://proceedings.mlr.press/v80/han18b.html) Proceedings of the 35th International Conference on Machine Learning, in PMLR 80:1900-1908
+
+    
 * Jordan, Michael I. [**"Dynamical, Symplectic and Stochastic Perspectives on Gradient-Based Optimization."**](https://eta.impa.br/dl/PL012.pdf) University of California, Berkeley (2018).
     * [ICM 2018 Talk](https://www.youtube.com/watch?v=wXNWVhE2Dl4)
     * *A review of recent advances in optimization. Recently an unusual differential equation representation of the nesterov acceleration scheme has been found. This paper also discusses this subject.*
