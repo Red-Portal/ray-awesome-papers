@@ -47,7 +47,7 @@ Let me know if you have anything interesting to share!
 * Ulyanov, Dmitry, Andrea Vedaldi, and Victor Lempitsky. [**"Deep image prior."**](https://arxiv.org/abs/1711.10925) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 
     * *Deep image prior (DIP) is one of the recently discovered mysteries in convolutional neural networks (CNN). The paper shows that CNNs inherently have a structural bias towards 'natural images'. However, it only briefly discusses the discovery and provides limited theoretical insight (which makes the DIP an open problem).*
     * Follow-up works
-        * Zezhou Cheng, Matheus Gadelha, Subhransu Maji, Daniel Sheldon. [**"A Bayesian Perspective on the Deep Image Prior"**](https://arxiv.org/abs/1904.07457). Accepted for CVPR 2019.
+        * Zezhou Cheng, Matheus Gadelha, Subhransu Maji, Daniel Sheldon. [**"A Bayesian Perspective on the Deep Image Prior"**](https://arxiv.org/abs/1904.07457). Proceedings of the 2019 Conference on Computer Vision and Pattern Recognition (CVPR'19).
         
 * Licht, Johannes de Fine, Simon Meierhans, and Torsten Hoefler. [**"Transformations of High-Level Synthesis Codes for High-Performance Computing."**](https://arxiv.org/abs/1805.08288) arXiv preprint arXiv:1805.08288 (2018).
 
