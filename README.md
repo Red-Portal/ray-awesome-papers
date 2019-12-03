@@ -57,11 +57,12 @@ Let me know if you have anything interesting to share!
     * [Microsoft Research Talk](https://www.youtube.com/watch?v=Xg0ozgCXXB8)
     
 * Qiang Liu and Dilin Wang. 2016. [**"Stein variational Gradient descent: a general purpose Bayesian inference algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16)
-    * *A recently developed Variational Inference (VI) method. It combines the flavor of particle filter sequential monte carlo methods with VI.*
+    * *A recently developed Variational Inference (VI) method. It combines the flavor of sequential monte carlo methods with VI.*
     * [Interactive demo](https://chi-feng.github.io/mcmc-demo/app.html). Select *SVGD* for the algorithm.
     * Follow-up works
         * Han, J. & Liu, Q.. (2018). [**"Stein Variational Gradient Descent Without Gradient."**](http://proceedings.mlr.press/v80/han18b.html) Proceedings of the 35th International Conference on Machine Learning, in PMLR 80:1900-1908
 
+* Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris Oates. (2019). [**"Stein Point Markov Chain Monte Carlo"**], Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:1011-1021
     
 * Jordan, Michael I. [**"Dynamical, Symplectic and Stochastic Perspectives on Gradient-Based Optimization."**](https://eta.impa.br/dl/PL012.pdf) University of California, Berkeley (2018).
     * [ICM 2018 Talk](https://www.youtube.com/watch?v=wXNWVhE2Dl4)
