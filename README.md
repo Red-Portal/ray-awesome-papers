@@ -55,7 +55,9 @@ Let me know if you have anything interesting to share!
 
 * Boyd, Stephen, et al. [**"Distributed optimization and statistical learning via the alternating direction method of multipliers."**](http://web.stanford.edu/~boyd/papers/admm_distr_stats.html) Foundations and Trends® in Machine learning 3.1 (2011): 1-122.
     * [Microsoft Research Talk](https://www.youtube.com/watch?v=Xg0ozgCXXB8)
-    
+
+* Pearce, Tim, et al. [**"Uncertainty in neural networks: Bayesian ensembling."**](https://arxiv.org/abs/1810.05546) In Proceedings of Artificial Intelligence and Statistics (AISTATS'20). 2020.
+  
 * Qiang Liu and Dilin Wang. 2016. [**"Stein variational Gradient descent: a general purpose Bayesian inference algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16)
     * *A recently developed Variational Inference (VI) method. It combines the flavor of sequential monte carlo methods with VI.*
     * [Interactive demo](https://chi-feng.github.io/mcmc-demo/app.html). Select *SVGD* for the algorithm.
