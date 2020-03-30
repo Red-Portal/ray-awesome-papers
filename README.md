@@ -44,7 +44,7 @@ Let me know if you have anything interesting to share!
     
 * Fuchs, Adi, and David Wentzlaff. [**"The Accelerator Wall: Limits of Chip Specialization."**](http://parallel.princeton.edu/papers/wall-hpca19.pdf) 2019 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2019.
 
-* Ulyanov, Dmitry, Andrea Vedaldi, and Victor Lempitsky. [**"Deep image prior."**](https://arxiv.org/abs/1711.10925) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018. 
+* Ulyanov, Dmitry, Andrea Vedaldi, and Victor Lempitsky. [**"Deep Image Prior."**](https://arxiv.org/abs/1711.10925) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. 
     * *Deep image prior (DIP) is one of the recently discovered mysteries in convolutional neural networks (CNN). The paper shows that CNNs inherently have a structural bias towards 'natural images'. However, it only briefly discusses the discovery and provides limited theoretical insight (which makes the DIP an open problem).*
     * Follow-up works
         * Zezhou Cheng, Matheus Gadelha, Subhransu Maji, Daniel Sheldon. [**"A Bayesian Perspective on the Deep Image Prior"**](https://arxiv.org/abs/1904.07457). Proceedings of the 2019 Conference on Computer Vision and Pattern Recognition (CVPR'19).
@@ -56,7 +56,8 @@ Let me know if you have anything interesting to share!
 * Boyd, Stephen, et al. [**"Distributed optimization and statistical learning via the alternating direction method of multipliers."**](http://web.stanford.edu/~boyd/papers/admm_distr_stats.html) Foundations and Trends® in Machine learning 3.1 (2011): 1-122.
     * [Microsoft Research Talk](https://www.youtube.com/watch?v=Xg0ozgCXXB8)
 
-* Pearce, Tim, et al. [**"Uncertainty in neural networks: Bayesian ensembling."**](https://arxiv.org/abs/1810.05546) In Proceedings of Artificial Intelligence and Statistics (AISTATS'20). 2020.
+* Pearce, Tim, et al. [**"Uncertainty in Neural Networks: Bayesian Ensembling."**](https://arxiv.org/abs/1810.05546) In Proceedings of Artificial Intelligence and Statistics (AISTATS'20). 2020.
+    * *Introduces a new, ensembling based approach to performing Bayesian inference.*
   
 * Qiang Liu and Dilin Wang. 2016. [**"Stein variational Gradient descent: a general purpose Bayesian inference algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16)
     * *A recently developed Variational Inference (VI) method. It combines the flavor of sequential monte carlo methods with VI.*
@@ -70,13 +71,13 @@ Let me know if you have anything interesting to share!
     * [ICM 2018 Talk](https://www.youtube.com/watch?v=wXNWVhE2Dl4)
     * *A review of recent advances in optimization. Recently an unusual differential equation representation of the nesterov acceleration scheme has been found. This paper also discusses this subject.*
     
-* Kruskal, Clyde P., and Alan Weiss. [**"Allocating independent subtasks on parallel processors."**](https://ieeexplore.ieee.org/abstract/document/1701915) IEEE Transactions on Software engineering 10 (1985): 1001-1016.
+* Kruskal, Clyde P., and Alan Weiss. [**"Allocating Independent Subtasks on Parallel Processors."**](https://ieeexplore.ieee.org/abstract/document/1701915) IEEE Transactions on Software engineering 10 (1985): 1001-1016.
     * Follow-up works
         * Bast, Hannah. [Ph.D. Thesis](http://ad.informatik.uni-freiburg.de/files/phd-thesis-hannah-bast.pdf/view?set_language=en), 2000
         
 * Solnik, Benjamin, et al. [**"Bayesian Optimization for a Better Dessert."**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf) (2017).
     * *Bayesian optimization (BO) can be applied to objective functions that were previously unimagineable to optimize. This is a very interesting example where BO optimizes the 'utility function' of cookie eaters. Human utility is obviously not differentiable and notoriously noisy. Despite these difficulties, BO was able to find an optimal (tasty) cookie recipe*
     
-* Dai, Z., Yu, H., Low, B.K.H. & Jaillet, P.. (2019). [**"Bayesian Optimization Meets Bayesian Optimal Stopping"**](http://proceedings.mlr.press/v97/dai19a.html). Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:1496-1506
+* Dai, Z., Yu, H., Low, B.K.H. & Jaillet, P.. (2019). [**"Bayesian Optimization Meets Bayesian Optimal Stopping"**](http://proceedings.mlr.press/v97/dai19a.html). Proceedings of the 36th International Conference on Machine Learning (ICML), in PMLR 97:1496-1506
     * *Bayesian optimal stopping is applied to Bayesian Optimization for Deep Learning hyperparameters tuning. A very simple but powerful solution that has strong theoretical foundations.*
 
