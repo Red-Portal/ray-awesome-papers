@@ -14,30 +14,30 @@ Let me know if you have anything interesting to share!
 * Image Processing
 
 ## Awesome Papers
-* Blei, David M., Andrew Y. Ng, and Michael I. Jordan. [**"Latent dirichlet allocation."**](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) Journal of machine Learning research 3.Jan (2003): 993-1022.
+* Blei, David M., Andrew Y. Ng, and Michael I. Jordan. [**"Latent Dirichlet Allocation."**](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) Journal of machine Learning research 3.Jan (2003): 993-1022.
     * *A beautifully simple and powerful example of applying probabilistic graphical modeling and variational inference. One of my favorite. This paper completely sold me on probabilistic machine learning.*
     
-* Neal, Radford M. [**"Bayesian learning for neural networks."**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) Vol. 118. Springer Science & Business Media, 2012.
+* Neal, Radford M. [**"Bayesian Learning for Neural Networks."**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf) Vol. 118. Springer Science & Business Media, 2012.
     * *Haven't read it all yet, but already one of my favorite. Neal reviews and constructs a Bayesian perspective of neural networks and performs Bayesian inference.*
 
-* Chaney, Allison, et al. [**"Detecting and characterizing events."**](http://dirichlet.net/pdf/chaney16detecting.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016.
+* Chaney, Allison, et al. [**"Detecting and Characterizing Events."**](http://dirichlet.net/pdf/chaney16detecting.pdf) Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing. 2016.
     * *An application of topic modelling and probabilistic graphical models for historians. We can see that probabilistic graphical models can be effectively used in a wide range of domains.*
 
 * Regier, Jeffrey, et al. [**"Approximate Inference for Constructing Astronomical Catalogs from Images."**](https://arxiv.org/abs/1803.00113) arXiv preprint arXiv:1803.00113 (2018).
     * [Juliacon 2017 Talk](https://juliacomputing.com/case-studies/celeste.html)
     * *An example of applying probabilistic graphical modelling for extremely complex inference problems with variables interacting with each other in complicated ways. Also, the model is unsupervised.*
     
-* Shanbhag, Naresh R., et al. [**"Shannon-inspired statistical computing for the nanoscale era."**](https://ieeexplore.ieee.org/document/8482253) Proceedings of the IEEE 107.1 (2019): 90-107.
+* Shanbhag, Naresh R., et al. [**"Shannon-inspired Statistical Computing for The Nanoscale Era."**](https://ieeexplore.ieee.org/document/8482253) Proceedings of the IEEE 107.1 (2019): 90-107.
     * [Stanford Seminar](https://www.youtube.com/watch?v=zwzYNura0Ps)
     * *Shannon communication theory can sometimes be applied in very unexpected places. This paper discusses applying communication theory to circuits with indeterministic, probabilistic transmissions.*
     
-* Ungar, David, and Sam S. Adams. [**"Harnessing emergence for manycore programming: early experience integrating ensembles, adverbs, and object-based inheritance."**](https://dl.acm.org/citation.cfm?id=1869546) Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion. ACM, 2010.
+* Ungar, David, and Sam S. Adams. [**"Harnessing Emergence for Manycore Programming: Early Experience Integrating Ensembles, Adverbs, and Object-based Inheritance."**](https://dl.acm.org/citation.cfm?id=1869546) Proceedings of the ACM international conference companion on Object oriented programming systems languages and applications companion. ACM, 2010.
     * [STI Conference Presentation](https://youtu.be/GBtqQwcJoN0)
     
 * Thompson, Neil, and Svenja Spanuth. [**"The Decline of Computers As a General Purpose Technology: Why Deep Learning and the End of Moore’s Law are Fragmenting Computing."**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3287769) Available at SSRN 3287769 (2018).
     * *A summary of the specialized, heterogeneous computing paradigm.*
     
-* Hammernik, Kerstin, et al. [**"Learning a variational network for reconstruction of accelerated MRI data."**](https://arxiv.org/abs/1704.00447) Magnetic resonance in medicine 79.6 (2018): 3055-3071.
+* Hammernik, Kerstin, et al. [**"Learning a Variational Network for Reconstruction of Accelerated MRI Data."**](https://arxiv.org/abs/1704.00447) Magnetic resonance in medicine 79.6 (2018): 3055-3071.
     * Previous works
         * Chen, Yunjin, Wei Yu, and Thomas Pock. [**"On learning optimized reaction-diffusion processes for effective image restoration."**](https://arxiv.org/abs/1503.05768) Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
     * *An example where neural networks can integrate tightly with domain-specific theory. In this paper the authors combine compressed sensing, a popular method used in MRI image reconstruction, with a neural network-ish method called reaction-diffusion.*
@@ -51,7 +51,7 @@ Let me know if you have anything interesting to share!
         
 * Licht, Johannes de Fine, Simon Meierhans, and Torsten Hoefler. [**"Transformations of High-Level Synthesis Codes for High-Performance Computing."**](https://arxiv.org/abs/1805.08288) arXiv preprint arXiv:1805.08288 (2018).
 
-* Kendall, Alex, and Yarin Gal. [**"What uncertainties do we need in bayesian deep learning for computer vision?."**](https://arxiv.org/abs/1703.04977) Advances in neural information processing systems. 2017.
+* Kendall, Alex, and Yarin Gal. [**"What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?."**](https://arxiv.org/abs/1703.04977) Advances in neural information processing systems. 2017.
 
 * Boyd, Stephen, et al. [**"Distributed optimization and statistical learning via the alternating direction method of multipliers."**](http://web.stanford.edu/~boyd/papers/admm_distr_stats.html) Foundations and Trends® in Machine learning 3.1 (2011): 1-122.
     * [Microsoft Research Talk](https://www.youtube.com/watch?v=Xg0ozgCXXB8)
@@ -59,13 +59,13 @@ Let me know if you have anything interesting to share!
 * Pearce, Tim, et al. [**"Uncertainty in Neural Networks: Bayesian Ensembling."**](https://arxiv.org/abs/1810.05546) In Proceedings of Artificial Intelligence and Statistics (AISTATS'20). 2020.
     * *Introduces a new, ensembling based approach to performing Bayesian inference.*
   
-* Qiang Liu and Dilin Wang. 2016. [**"Stein variational Gradient descent: a general purpose Bayesian inference algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16)
+* Qiang Liu and Dilin Wang. 2016. [**"Stein Variational Gradient Descent: a General Purpose Bayesian Inference Algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) In Proceedings of the 30th International Conference on Neural Information Processing Systems (NIPS'16)
     * *A recently developed Variational Inference (VI) method. It combines the flavor of sequential monte carlo methods with VI.*
     * [Interactive demo](https://chi-feng.github.io/mcmc-demo/app.html). Select *SVGD* for the algorithm.
     * Follow-up works
         * Han, J. & Liu, Q.. (2018). [**"Stein Variational Gradient Descent Without Gradient."**](http://proceedings.mlr.press/v80/han18b.html) Proceedings of the 35th International Conference on Machine Learning, in PMLR 80:1900-1908
 
-* Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris Oates. (2019). [**"Stein Point Markov Chain Monte Carlo"**], Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:1011-1021
+* Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris Oates. (2019). [**"Stein Point Markov Chain Monte Carlo"**](http://proceedings.mlr.press/v97/chen19b.html), Proceedings of the 36th International Conference on Machine Learning, in PMLR 97:1011-1021
     
 * Jordan, Michael I. [**"Dynamical, Symplectic and Stochastic Perspectives on Gradient-Based Optimization."**](https://eta.impa.br/dl/PL012.pdf) University of California, Berkeley (2018).
     * [ICM 2018 Talk](https://www.youtube.com/watch?v=wXNWVhE2Dl4)
