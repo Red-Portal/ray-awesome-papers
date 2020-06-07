@@ -81,3 +81,7 @@ Let me know if you have anything interesting to share!
 * Dai, Z., Yu, H., Low, B.K.H. & Jaillet, P.. (2019). [**"Bayesian Optimization Meets Bayesian Optimal Stopping"**](http://proceedings.mlr.press/v97/dai19a.html). Proceedings of the 36th International Conference on Machine Learning (ICML), in PMLR 97:1496-1506
     * *Bayesian optimal stopping is applied to Bayesian Optimization for Deep Learning hyperparameters tuning. A very simple but powerful solution that has strong theoretical foundations.*
 
+* Hartwig Anzt, Terry Cojean, Chen Yen-Chen, Jack Dongarra, Goran Flegar, Pratik Nayak, Stanimire Tomov, Yuhsiang M. Tsai, and Weichung Wang. 2020. [**"Load-balancing Sparse Matrix Vector Product Kernels on GPUs"**](https://doi.org/10.1145/3380930). ACM Trans. Parallel Comput. 7, 1, Article 2 (March 2020).
+   * *The evaluation of this paper is absolutely impressive.*
+  
+
