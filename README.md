@@ -72,4 +72,5 @@ Let me know if you have anything interesting to share!
   
 * Kathleen E. Hamilton, Catherine D. Schuman, Steven R. Young, Ryan S. Bennink, Neena Imam, and Travis S. Humble. [**"Accelerating Scientific Computing in the Post-Moore’s Era"**](https://doi.org/10.1145/3380940). ACM Transactions on Parallel Computing. 7, 1, Article 6 (March 2020).
   
+* Mikkola, Petrus, et al. (2017). [**Projective Preferential Bayesian Optimization**](https://arxiv.org/abs/2002.03113). *To appear* in Proceedings of the International Conference on Machine Learning (ICML'20).
 
