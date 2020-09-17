@@ -74,3 +74,5 @@ Let me know if you have anything interesting to share!
   
 * Mikkola, Petrus, et al. [**Projective Preferential Bayesian Optimization**](https://arxiv.org/abs/2002.03113). *To appear* in Proceedings of the International Conference on Machine Learning (ICML'20).
 
+* Slaughter, Elliott, et al. [**"Task Bench: A Parameterized Benchmark for Evaluating Parallel Runtime Performance."**](https://arxiv.org/abs/1908.05790). *To be presented* as part of International Conference for High Performance Computing, Networking, Storage and Analysis (SC'20).
+
