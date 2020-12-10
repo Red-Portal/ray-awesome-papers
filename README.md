@@ -3,15 +3,14 @@ The papers that made me stay awake all night long.
 Let me know if you have anything interesting to share!
 
 ## Interests
-* High-Performance Computing
-* Probabilistic Machine Learning
+* High-performance computing
+* Probabilistic machine learning
 * Bayesian Statistics
-* Numerical Analysis
-* Computational Linear Algebra
-* Heterogeneous, Specialized Hardware
-* Programming Language Theory
-* Computer Vision
-* Image Processing
+* Bayesian inference
+* Bayesian optimization
+* Heterogeneous, specialized hardware
+* Computer vision
+* Image processing
 
 ## Awesome Papers
 * Blei, David M., Andrew Y. Ng, and Michael I. Jordan. [**"Latent Dirichlet Allocation."**](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) Journal of machine Learning research 3.Jan (2003): 993-1022.
