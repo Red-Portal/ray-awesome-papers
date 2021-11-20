@@ -9,8 +9,8 @@ Let me know if you have anything interesting to share!
 * Bayesian inference
 * Bayesian optimization
 * Heterogeneous, specialized hardware
-* Computer vision
 * Image processing
+* Signal Processing
 
 ## Awesome Papers
 * Blei, David M., Andrew Y. Ng, and Michael I. Jordan. [**"Latent Dirichlet Allocation."**](http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) *Journal of machine Learning research* 3.Jan (2003): 993-1022.
@@ -52,7 +52,8 @@ Let me know if you have anything interesting to share!
 * Qiang Liu and Dilin Wang. 2016. [**"Stein Variational Gradient Descent: a General Purpose Bayesian Inference Algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) *Advances in Neural Information Processing Systems* (NIPS'16), 2016.
     * [Interactive demo](https://chi-feng.github.io/mcmc-demo/app.html). Select *SVGD* for the algorithm.
     * Follow-up works
-        * Han, J. & Liu, Q.. (2018). [**"Stein Variational Gradient Descent Without Gradient."**](http://proceedings.mlr.press/v80/han18b.html) Proceedings of the 35th International Conference on Machine Learning, in PMLR 80:1900-1908
+        *  Han, Jun, and Qiang Liu. [**"Stein Variational Gradient Descent Without Gradient."**](http://proceedings.mlr.press/v80/han18b.html) Proceedings of the International Conference on Machine Learning (ICML'18), in PMLR 80:1900-1908
+        * Han, Jun, and Qiang Liu. [**"Stein Variational Adaptive Importance Sampling."**](http://auai.org/uai2017/proceedings/papers/217.pdf) Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI'17).
 
 * Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris Oates. (2019). [**"Stein Point Markov Chain Monte Carlo"**](http://proceedings.mlr.press/v97/chen19b.html), *Proceedings of the 36th International Conference on Machine Learning*, in PMLR 97:1011-1021
     
