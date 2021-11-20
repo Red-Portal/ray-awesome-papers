@@ -40,7 +40,7 @@ Let me know if you have anything interesting to share!
     * Follow-up works
         * Zezhou Cheng, Matheus Gadelha, Subhransu Maji, Daniel Sheldon. [**"A Bayesian Perspective on the Deep Image Prior"**](https://arxiv.org/abs/1904.07457). *Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR'19)*.
         
-* Licht, Johannes de Fine, Simon Meierhans, and Torsten Hoefler. [**"Transformations of High-Level Synthesis Codes for High-Performance Computing."**](https://arxiv.org/abs/1805.08288) arXiv preprint arXiv:1805.08288 (2018).
+* de Fine Licht, Johannes, et al. [**"Transformations of high-level synthesis codes for high-performance computing."**](https://arxiv.org/abs/1805.08288) *IEEE Transactions on Parallel and Distributed Systems* 32.5 (2020): 1014-1029.
 
 * Kendall, Alex, and Yarin Gal. [**"What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?."**](https://arxiv.org/abs/1703.04977) *Advances in neural information processing systems* (NIPS). 2017.
 
