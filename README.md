@@ -19,7 +19,7 @@ Let me know if you have anything interesting to share!
 
 * Chaney, Allison, et al. [**"Detecting and Characterizing Events."**](http://dirichlet.net/pdf/chaney16detecting.pdf) *Proceedings of the Conference on Empirical Methods in Natural Language Processing*. 2016.
 
-* Regier, Jeffrey, et al. [**"Approximate Inference for Constructing Astronomical Catalogs from Images."**](https://arxiv.org/abs/1803.00113) arXiv preprint arXiv:1803.00113 (2018).
+* Regier, Jeffrey, et al. [**"Approximate inference for constructing astronomical catalogs from images."**](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-13/issue-3/Approximate-inference-for-constructing-astronomical-catalogs-from-images/10.1214/19-AOAS1258.full) *The Annals of Applied Statistics* 13.3 (2019): 1884-1926.
     * [Juliacon 2017 Talk](https://juliacomputing.com/case-studies/celeste.html)
     
 * Shanbhag, Naresh R., et al. [**"Shannon-inspired Statistical Computing for The Nanoscale Era."**](https://ieeexplore.ieee.org/document/8482253) *Proceedings of the IEEE* 107.1 (2019): 90-107.
