@@ -96,3 +96,10 @@ Let me know if you have anything interesting to share!
 * Fearnhead, Paul, and Benjamin M. Taylor. [**"An adaptive sequential Monte Carlo sampler."**](https://projecteuclid.org/journals/bayesian-analysis/volume-8/issue-2/An-Adaptive-Sequential-Monte-Carlo-Sampler/10.1214/13-BA814.full) *Bayesian Analysis* 8.2 (2013): 411-438.
 
 * Akash Kumar Dhaka, *et al.* ["**Robust, Accurate Stochastic Optimization for Variational Inference.**"](https://papers.nips.cc/paper/2020/hash/7cac11e2f46ed46c339ec3d569853759-Abstract.html) *Advances in Neural Information Processing Systems* (NeurIPS'20).
+
+* Yu, Yongjian, and Scott T. Acton. **"Speckle reducing anisotropic diffusion."** IEEE Transactions on image processing 11.11 (2002): 1260-1270.
+     * Follow-up works
+        * Aja-Fernández, Santiago, and Carlos Alberola-López. **"On the estimation of the coefficient of variation for anisotropic diffusion speckle filtering."** *IEEE Transactions on Image Processing* 15.9 (2006): 2694-2701.
+        * Krissian, Karl, et al. **"Oriented speckle reducing anisotropic diffusion."** *IEEE Transactions on Image Processing* 16.5 (2007): 1412-1424.
+
+
