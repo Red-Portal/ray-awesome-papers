@@ -25,7 +25,7 @@ Let me know if you have anything interesting to share!
 * Shanbhag, Naresh R., et al. [**"Shannon-inspired Statistical Computing for The Nanoscale Era."**](https://ieeexplore.ieee.org/document/8482253) *Proceedings of the IEEE* 107.1 (2019): 90-107.
     * [Stanford Seminar](https://www.youtube.com/watch?v=zwzYNura0Ps)
     
-* Ungar, David, and Sam S. Adams. [**"Harnessing Emergence for Manycore Programming: Early Experience Integrating Ensembles, Adverbs, and Object-based Inheritance."**](https://dl.acm.org/citation.cfm?id=1869546) *Proceedings of the ACM International Conference Companion on Object Oriented Programming Systems languages and Applications Companion (OOPSLA). ACM, 2010.
+* Ungar, David, and Sam S. Adams. [**"Harnessing Emergence for Manycore Programming: Early Experience Integrating Ensembles, Adverbs, and Object-based Inheritance."**](https://dl.acm.org/citation.cfm?id=1869546) *Proceedings of the ACM International Conference Companion on Object Oriented Programming Systems languages and Applications Companion* (OOPSLA). ACM, 2010.
     * [STI Conference Presentation](https://youtu.be/GBtqQwcJoN0)
     
 * Thompson, Neil, and Svenja Spanuth. [**"The Decline of Computers As a General Purpose Technology: Why Deep Learning and the End of Moore’s Law are Fragmenting Computing."**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3287769) Available at SSRN 3287769 (2018).
@@ -34,11 +34,11 @@ Let me know if you have anything interesting to share!
     * Previous works
         * Chen, Yunjin, Wei Yu, and Thomas Pock. [**"On learning optimized reaction-diffusion processes for effective image restoration."**](https://arxiv.org/abs/1503.05768) *Proceedings of the IEEE conference on computer vision and pattern recognition* (CVPR), 2015.
     
-* Fuchs, Adi, and David Wentzlaff. [**"The Accelerator Wall: Limits of Chip Specialization."**](http://parallel.princeton.edu/papers/wall-hpca19.pdf) 2019 IEEE International Symposium on High-Performance Computer Architecture (HPCA). IEEE, 2019.
+* Fuchs, Adi, and David Wentzlaff. [**"The Accelerator Wall: Limits of Chip Specialization."**](http://parallel.princeton.edu/papers/wall-hpca19.pdf) *Proceedings of the IEEE International Symposium on High-Performance Computer Architecture* (HPCA'19).
 
-* Ulyanov, Dmitry, Andrea Vedaldi, and Victor Lempitsky. [**"Deep Image Prior."**](https://arxiv.org/abs/1711.10925) Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR). 2018. 
+* Ulyanov, Dmitry, Andrea Vedaldi, and Victor Lempitsky. [**"Deep Image Prior."**](https://arxiv.org/abs/1711.10925) *Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition* (CVPR'18).
     * Follow-up works
-        * Zezhou Cheng, Matheus Gadelha, Subhransu Maji, Daniel Sheldon. [**"A Bayesian Perspective on the Deep Image Prior"**](https://arxiv.org/abs/1904.07457). *Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR'19)*.
+        * Zezhou Cheng, Matheus Gadelha, Subhransu Maji, Daniel Sheldon. [**"A Bayesian Perspective on the Deep Image Prior"**](https://arxiv.org/abs/1904.07457). *Proceedings of the Conference on Computer Vision and Pattern Recognition* (CVPR'19).
         
 * de Fine Licht, Johannes, et al. [**"Transformations of high-level synthesis codes for high-performance computing."**](https://arxiv.org/abs/1805.08288) *IEEE Transactions on Parallel and Distributed Systems* 32.5 (2020): 1014-1029.
 
@@ -52,10 +52,10 @@ Let me know if you have anything interesting to share!
 * Qiang Liu and Dilin Wang. 2016. [**"Stein Variational Gradient Descent: a General Purpose Bayesian Inference Algorithm."**](https://dl.acm.org/citation.cfm?id=3157362) *Advances in Neural Information Processing Systems* (NIPS'16), 2016.
     * [Interactive demo](https://chi-feng.github.io/mcmc-demo/app.html). Select *SVGD* for the algorithm.
     * Follow-up works
-        *  Han, Jun, and Qiang Liu. [**"Stein Variational Gradient Descent Without Gradient."**](http://proceedings.mlr.press/v80/han18b.html) Proceedings of the International Conference on Machine Learning (ICML'18), in PMLR 80:1900-1908
-        * Han, Jun, and Qiang Liu. [**"Stein Variational Adaptive Importance Sampling."**](http://auai.org/uai2017/proceedings/papers/217.pdf) Proceedings of the Conference on Uncertainty in Artificial Intelligence (UAI'17).
+        *  Han, Jun, and Qiang Liu. [**"Stein Variational Gradient Descent Without Gradient."**](http://proceedings.mlr.press/v80/han18b.html) *Proceedings of the International Conference on Machine Learning* (ICML'18), in PMLR 80:1900-1908
+        * Han, Jun, and Qiang Liu. [**"Stein Variational Adaptive Importance Sampling."**](http://auai.org/uai2017/proceedings/papers/217.pdf) *Proceedings of the Conference on Uncertainty in Artificial Intelligence* (UAI'17).
 
-* Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris Oates. (2019). [**"Stein Point Markov Chain Monte Carlo"**](http://proceedings.mlr.press/v97/chen19b.html), *Proceedings of the 36th International Conference on Machine Learning*, in PMLR 97:1011-1021
+* Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey and Chris Oates. (2019). [**"Stein Point Markov Chain Monte Carlo"**](http://proceedings.mlr.press/v97/chen19b.html), *Proceedings of the International Conference on Machine Learning* (ICML'19), in PMLR 97:1011-1021
     
 * Jordan, Michael I. [**"Dynamical, Symplectic and Stochastic Perspectives on Gradient-Based Optimization."**](https://eta.impa.br/dl/PL012.pdf) University of California, Berkeley (2018).
     * [ICM 2018 Talk](https://www.youtube.com/watch?v=wXNWVhE2Dl4)
