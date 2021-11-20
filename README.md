@@ -81,6 +81,7 @@ Let me know if you have anything interesting to share!
 * Vaden Masrani, Tuan Anh Le, Frank Wood. [**"The Thermodynamic Variational Objective."**](https://papers.nips.cc/paper/2019/hash/618faa1728eb2ef6e3733645273ab145-Abstract.html) *Advances in Neural Information Processing Systems* 32 (NeurIPS'19), 2019.
     * Follow-up works
         * Rob Brekelmans, Vaden Masrani, Frank Wood, Greg Ver Steeg, Aram Galstyan. [**"All in the Exponential Family: Bregman Duality in Thermodynamic Variational Inference."**](http://proceedings.mlr.press/v119/brekelmans20a.html) Proceedings of the International Conference on Machine Learning (ICML'20), PMLR 119:1111-1122, 2020.
+        * Vu Nguyen, et al. [**"Gaussian Process Bandit Optimization of the Thermodynamic Variational Objective."**](https://proceedings.neurips.cc/paper/2020/file/3f2dff7862a70f97a59a1fa02c3ec110-Paper.pdf) Advances in Neural Information Processing Systems 33 (NeurIPS'20).
 
 * Tijana Radivojević, Elena Akhmatskaya. [**"Modified Hamiltonian Monte Carlo for Bayesian inference."**](https://link.springer.com/content/pdf/10.1007/s11222-019-09885-x.pdf) *Statistics and Computing* 30, 377–404, 2020.
 
