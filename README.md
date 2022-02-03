@@ -102,4 +102,4 @@ Let me know if you have anything interesting to share!
         * Aja-Fernández, Santiago, and Carlos Alberola-López. **"On the estimation of the coefficient of variation for anisotropic diffusion speckle filtering."** *IEEE Transactions on Image Processing* 15.9 (2006): 2694-2701.
         * Krissian, Karl, et al. **"Oriented speckle reducing anisotropic diffusion."** *IEEE Transactions on Image Processing* 16.5 (2007): 1412-1424.
 
-
+* Shan, Tie-Jun, and Kailath, T., **"Adaptive beamforming for coherent signals and interference."** IEEE Transactions on Acoustics, Speech, and Signal Processing 33(3), Jun 1985.
