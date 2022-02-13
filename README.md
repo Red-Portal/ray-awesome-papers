@@ -103,3 +103,5 @@ Let me know if you have anything interesting to share!
         * Krissian, Karl, et al. **"Oriented speckle reducing anisotropic diffusion."** *IEEE Transactions on Image Processing* 16.5 (2007): 1412-1424.
 
 * Shan, Tie-Jun, and Kailath, T., **"Adaptive beamforming for coherent signals and interference."** IEEE Transactions on Acoustics, Speech, and Signal Processing 33(3), Jun 1985.
+
+* Yuko Ishiwaka, Xiao S. Zeng, Michael Lee Eastman, Sho Kakazu, Sarah Gross, Ryosuke Mizutani, and Masaki Nakada, [**"Foids: bio-inspired fish simulation for generating synthetic datasets."**](https://doi.org/10.1145/3478513.3480520) ACM Trans. Graph. 40, 6, Article 207, Dec 2021.
