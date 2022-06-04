@@ -105,3 +105,5 @@ Let me know if you have anything interesting to share!
 * Shan, Tie-Jun, and Kailath, T., **"Adaptive beamforming for coherent signals and interference."** IEEE Transactions on Acoustics, Speech, and Signal Processing 33(3), Jun 1985.
 
 * Yuko Ishiwaka, Xiao S. Zeng, Michael Lee Eastman, Sho Kakazu, Sarah Gross, Ryosuke Mizutani, and Masaki Nakada, [**"Foids: bio-inspired fish simulation for generating synthetic datasets."**](https://doi.org/10.1145/3478513.3480520) ACM Trans. Graph. 40, 6, Article 207, Dec 2021.
+
+* Nikola Surjanovic *et al.*, [**Parallel tempering with a variational reference**](https://arxiv.org/abs/2206.00080), May 2022.
