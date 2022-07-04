@@ -1,4 +1,4 @@
-# Ray Kim's Awesome Papers
+# Kyurae Kim's Awesome Papers
 The papers that made me stay awake all night long.
 Let me know if you have anything interesting to share!
 
