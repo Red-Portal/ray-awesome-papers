@@ -107,3 +107,13 @@ Let me know if you have anything interesting to share!
 * Yuko Ishiwaka, Xiao S. Zeng, Michael Lee Eastman, Sho Kakazu, Sarah Gross, Ryosuke Mizutani, and Masaki Nakada, [**"Foids: bio-inspired fish simulation for generating synthetic datasets."**](https://doi.org/10.1145/3478513.3480520) ACM Trans. Graph. 40, 6, Article 207, Dec 2021.
 
 * Nikola Surjanovic *et al.*, [**Parallel tempering with a variational reference**](https://arxiv.org/abs/2206.00080), May 2022.
+
+* Andrieu, Christophe, and Arnaud Doucet. [**"Joint Bayesian model selection and estimation of noisy sinusoids via reversible jump MCMC."**] IEEE Transactions on Signal Processing 47.10 (1999): 2667-2676.
+
+* Mishchenko, Konstantin, Ahmed Khaled, and Peter Richtárik. [**"Random reshuffling: Simple analysis with vast improvements."**](https://proceedings.neurips.cc/paper/2020/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html) Advances in Neural Information Processing Systems 33 (2020): 17309-17320.
+
+* Jacob, Pierre E., John O’Leary, and Yves F. Atchadé. [**"Unbiased Markov chain Monte Carlo methods with couplings."**](https://arxiv.org/abs/1708.03625) Journal of the Royal Statistical Society: Series B (Statistical Methodology) 82.3 (2020).
+
+* De Bortoli, Valentin, et al. [**"Diffusion Schrödinger bridge with applications to score-based generative modeling."**](https://proceedings.neurips.cc/paper/2021/hash/940392f5f32a7ade1cc201767cf83e31-Abstract.html) Advances in Neural Information Processing Systems 34 (2021): 17695-17709.
+
+* Giordano, Ryan, Tamara Broderick, and Michael I. Jordan. [**"Covariances, robustness and variational bayes."**](https://jmlr.org/papers/v19/17-670.html) Journal of machine learning research 19.51 (2018).
