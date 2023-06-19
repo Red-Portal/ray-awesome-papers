@@ -108,7 +108,7 @@ Let me know if you have anything interesting to share!
 
 * Nikola Surjanovic *et al.*, [**Parallel tempering with a variational reference**](https://arxiv.org/abs/2206.00080), May 2022.
 
-* Andrieu, Christophe, and Arnaud Doucet. [**"Joint Bayesian model selection and estimation of noisy sinusoids via reversible jump MCMC."**] IEEE Transactions on Signal Processing 47.10 (1999): 2667-2676.
+* Andrieu, Christophe, and Arnaud Doucet. **"Joint Bayesian model selection and estimation of noisy sinusoids via reversible jump MCMC."** IEEE Transactions on Signal Processing 47.10 (1999): 2667-2676.
 
 * Mishchenko, Konstantin, Ahmed Khaled, and Peter Richtárik. [**"Random reshuffling: Simple analysis with vast improvements."**](https://proceedings.neurips.cc/paper/2020/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html) Advances in Neural Information Processing Systems 33 (2020): 17309-17320.
 
