@@ -117,3 +117,7 @@ Let me know if you have anything interesting to share!
 * De Bortoli, Valentin, et al. [**"Diffusion Schrödinger bridge with applications to score-based generative modeling."**](https://proceedings.neurips.cc/paper/2021/hash/940392f5f32a7ade1cc201767cf83e31-Abstract.html) Advances in Neural Information Processing Systems 34 (2021): 17695-17709.
 
 * Giordano, Ryan, Tamara Broderick, and Michael I. Jordan. [**"Covariances, robustness and variational bayes."**](https://jmlr.org/papers/v19/17-670.html) Journal of machine learning research 19.51 (2018).
+
+* Doucet, Arnaud, Will Grathwohl, Alexander G. Matthews, and Heiko Strathmann. [**"Score-based diffusion meets annealed importance sampling."**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/86b7128efa3950df7c0f6c0342e6dcc1-Abstract-Conference.html) Advances in Neural Information Processing Systems 35 (2022): 21482-21494.
+
+* Heng, Jeremy, Adrian N. Bishop, George Deligiannidis, and Arnaud Doucet. [**"Controlled sequential Monte Carlo."**](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-5/Controlled-sequential-Monte-Carlo/10.1214/19-AOS1914.short) Annals of Statistics 48, no. 5 (2020).
