@@ -121,3 +121,5 @@ Let me know if you have anything interesting to share!
 * Doucet, Arnaud, Will Grathwohl, Alexander G. Matthews, and Heiko Strathmann. [**"Score-based diffusion meets annealed importance sampling."**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/86b7128efa3950df7c0f6c0342e6dcc1-Abstract-Conference.html) Advances in Neural Information Processing Systems 35 (2022): 21482-21494.
 
 * Heng, Jeremy, Adrian N. Bishop, George Deligiannidis, and Arnaud Doucet. [**"Controlled sequential Monte Carlo."**](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-5/Controlled-sequential-Monte-Carlo/10.1214/19-AOS1914.short) Annals of Statistics 48, no. 5 (2020).
+
+* Kobak, Dmitry, Jonathan Lomond, and Benoit Sanchez. [**"The optimal ridge penalty for real-world high-dimensional data can be zero or negative due to the implicit ridge regularization."**](https://jmlr.org/papers/v21/19-844.html) The Journal of Machine Learning Research 21.1 (2020): 6863-6878.
