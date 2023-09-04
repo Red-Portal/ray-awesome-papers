@@ -104,7 +104,7 @@ Let me know if you have anything interesting to share!
 
 * Shan, Tie-Jun, and Kailath, T., **"Adaptive beamforming for coherent signals and interference."** *IEEE Transactions on Acoustics, Speech, and Signal Processing* 33(3), Jun 1985.
 
-* Yuko Ishiwaka, Xiao S. Zeng, Michael Lee Eastman, Sho Kakazu, Sarah Gross, Ryosuke Mizutani, and Masaki Nakada, [**"Foids: bio-inspired fish simulation for generating synthetic datasets."**](https://doi.org/10.1145/3478513.3480520) *ACM Trans. Graph.* 40, 6, Article 207, Dec 2021.
+* Yuko Ishiwaka, Xiao S. Zeng, Michael Lee Eastman, Sho Kakazu, Sarah Gross, Ryosuke Mizutani, and Masaki Nakada, [**"Foids: bio-inspired fish simulation for generating synthetic datasets."**](https://doi.org/10.1145/3478513.3480520) *ACM Transactions on Graphics* 40, 6, Article 207, Dec 2021.
 
 * Surjanovic, Nikola, et al. [**"Parallel Tempering With a Variational Reference."**](https://papers.nips.cc/paper_files/paper/2022/hash/03cd3cf3f74d4f9ce5958de269960884-Abstract-Conference.html) *Advances in Neural Information Processing Systems* 35 (2022): 565-577.
 
@@ -124,4 +124,10 @@ Let me know if you have anything interesting to share!
 
 * Kobak, Dmitry, Jonathan Lomond, and Benoit Sanchez. [**"The optimal ridge penalty for real-world high-dimensional data can be zero or negative due to the implicit ridge regularization."**](https://jmlr.org/papers/v21/19-844.html) *The Journal of Machine Learning Research* 21.1 (2020): 6863-6878.
 
-* Bernton, Espen, et al. [**"Schr\" odinger Bridge Samplers."**](https://arxiv.org/abs/1912.13170) *arXiv preprint* arXiv:1912.13170 (2019).
+* Bernton, Espen, et al. [**"Schrodinger Bridge Samplers."**](https://arxiv.org/abs/1912.13170) *arXiv preprint* arXiv:1912.13170 (2019).
+  
+* Bardenet, Rémi, Arnaud Doucet, and Chris Holmes. [**"On Markov chain Monte Carlo methods for tall data."**](https://jmlr.org/papers/v18/15-205.html) *Journal of Machine Learning Research* 18.47 (2017).
+
+* Karagiannis, Georgios, and Christophe Andrieu. **"Annealed importance sampling reversible jump MCMC algorithms."** *Journal of Computational and Graphical Statistics* 22.3 (2013): 623-648.
+
+* Aubry, Mathieu, Sylvain Paris, Samuel W. Hasinoff, Jan Kautz, and Frédo Durand. [**"Fast local laplacian filters: Theory and applications."**](https://dl.acm.org/doi/10.1145/2629645) *ACM Transactions on Graphics* (TOG) 33.5 (2014): 1-14.
