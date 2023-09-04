@@ -102,24 +102,26 @@ Let me know if you have anything interesting to share!
         * Aja-Fernández, Santiago, and Carlos Alberola-López. **"On the estimation of the coefficient of variation for anisotropic diffusion speckle filtering."** *IEEE Transactions on Image Processing* 15.9 (2006): 2694-2701.
         * Krissian, Karl, et al. **"Oriented speckle reducing anisotropic diffusion."** *IEEE Transactions on Image Processing* 16.5 (2007): 1412-1424.
 
-* Shan, Tie-Jun, and Kailath, T., **"Adaptive beamforming for coherent signals and interference."** IEEE Transactions on Acoustics, Speech, and Signal Processing 33(3), Jun 1985.
+* Shan, Tie-Jun, and Kailath, T., **"Adaptive beamforming for coherent signals and interference."** *IEEE Transactions on Acoustics, Speech, and Signal Processing* 33(3), Jun 1985.
 
-* Yuko Ishiwaka, Xiao S. Zeng, Michael Lee Eastman, Sho Kakazu, Sarah Gross, Ryosuke Mizutani, and Masaki Nakada, [**"Foids: bio-inspired fish simulation for generating synthetic datasets."**](https://doi.org/10.1145/3478513.3480520) ACM Trans. Graph. 40, 6, Article 207, Dec 2021.
+* Yuko Ishiwaka, Xiao S. Zeng, Michael Lee Eastman, Sho Kakazu, Sarah Gross, Ryosuke Mizutani, and Masaki Nakada, [**"Foids: bio-inspired fish simulation for generating synthetic datasets."**](https://doi.org/10.1145/3478513.3480520) *ACM Trans. Graph.* 40, 6, Article 207, Dec 2021.
 
-* Nikola Surjanovic *et al.*, [**Parallel tempering with a variational reference**](https://arxiv.org/abs/2206.00080), May 2022.
+* Surjanovic, Nikola, et al. [**"Parallel Tempering With a Variational Reference."**](https://papers.nips.cc/paper_files/paper/2022/hash/03cd3cf3f74d4f9ce5958de269960884-Abstract-Conference.html) *Advances in Neural Information Processing Systems* 35 (2022): 565-577.
 
-* Andrieu, Christophe, and Arnaud Doucet. **"Joint Bayesian model selection and estimation of noisy sinusoids via reversible jump MCMC."** IEEE Transactions on Signal Processing 47.10 (1999): 2667-2676.
+* Andrieu, Christophe, and Arnaud Doucet. **"Joint Bayesian model selection and estimation of noisy sinusoids via reversible jump MCMC."** *IEEE Transactions on Signal Processing* 47.10 (1999): 2667-2676.
 
-* Mishchenko, Konstantin, Ahmed Khaled, and Peter Richtárik. [**"Random reshuffling: Simple analysis with vast improvements."**](https://proceedings.neurips.cc/paper/2020/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html) Advances in Neural Information Processing Systems 33 (2020): 17309-17320.
+* Mishchenko, Konstantin, Ahmed Khaled, and Peter Richtárik. [**"Random reshuffling: Simple analysis with vast improvements."**](https://proceedings.neurips.cc/paper/2020/hash/c8cc6e90ccbff44c9cee23611711cdc4-Abstract.html) *Advances in Neural Information Processing Systems* 33 (2020): 17309-17320.
 
-* Jacob, Pierre E., John O’Leary, and Yves F. Atchadé. [**"Unbiased Markov chain Monte Carlo methods with couplings."**](https://arxiv.org/abs/1708.03625) Journal of the Royal Statistical Society: Series B (Statistical Methodology) 82.3 (2020).
+* Jacob, Pierre E., John O’Leary, and Yves F. Atchadé. [**"Unbiased Markov chain Monte Carlo methods with couplings."**](https://arxiv.org/abs/1708.03625) *Journal of the Royal Statistical Society: Series B (Statistical Methodology)* 82.3 (2020).
 
-* De Bortoli, Valentin, et al. [**"Diffusion Schrödinger bridge with applications to score-based generative modeling."**](https://proceedings.neurips.cc/paper/2021/hash/940392f5f32a7ade1cc201767cf83e31-Abstract.html) Advances in Neural Information Processing Systems 34 (2021): 17695-17709.
+* De Bortoli, Valentin, et al. [**"Diffusion Schrödinger bridge with applications to score-based generative modeling."**](https://proceedings.neurips.cc/paper/2021/hash/940392f5f32a7ade1cc201767cf83e31-Abstract.html) *Advances in Neural Information Processing Systems* 34 (2021): 17695-17709.
 
-* Giordano, Ryan, Tamara Broderick, and Michael I. Jordan. [**"Covariances, robustness and variational bayes."**](https://jmlr.org/papers/v19/17-670.html) Journal of machine learning research 19.51 (2018).
+* Giordano, Ryan, Tamara Broderick, and Michael I. Jordan. [**"Covariances, robustness and variational bayes."**](https://jmlr.org/papers/v19/17-670.html) *Journal of machine learning research* 19.51 (2018).
 
-* Doucet, Arnaud, Will Grathwohl, Alexander G. Matthews, and Heiko Strathmann. [**"Score-based diffusion meets annealed importance sampling."**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/86b7128efa3950df7c0f6c0342e6dcc1-Abstract-Conference.html) Advances in Neural Information Processing Systems 35 (2022): 21482-21494.
+* Doucet, Arnaud, Will Grathwohl, Alexander G. Matthews, and Heiko Strathmann. [**"Score-based diffusion meets annealed importance sampling."**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/86b7128efa3950df7c0f6c0342e6dcc1-Abstract-Conference.html) *Advances in Neural Information Processing Systems* 35 (2022): 21482-21494.
 
-* Heng, Jeremy, Adrian N. Bishop, George Deligiannidis, and Arnaud Doucet. [**"Controlled sequential Monte Carlo."**](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-5/Controlled-sequential-Monte-Carlo/10.1214/19-AOS1914.short) Annals of Statistics 48, no. 5 (2020).
+* Heng, Jeremy, Adrian N. Bishop, George Deligiannidis, and Arnaud Doucet. [**"Controlled sequential Monte Carlo."**](https://projecteuclid.org/journals/annals-of-statistics/volume-48/issue-5/Controlled-sequential-Monte-Carlo/10.1214/19-AOS1914.short) *Annals of Statistics* 48, no. 5 (2020).
 
-* Kobak, Dmitry, Jonathan Lomond, and Benoit Sanchez. [**"The optimal ridge penalty for real-world high-dimensional data can be zero or negative due to the implicit ridge regularization."**](https://jmlr.org/papers/v21/19-844.html) The Journal of Machine Learning Research 21.1 (2020): 6863-6878.
+* Kobak, Dmitry, Jonathan Lomond, and Benoit Sanchez. [**"The optimal ridge penalty for real-world high-dimensional data can be zero or negative due to the implicit ridge regularization."**](https://jmlr.org/papers/v21/19-844.html) *The Journal of Machine Learning Research* 21.1 (2020): 6863-6878.
+
+* Bernton, Espen, et al. [**"Schr\" odinger Bridge Samplers."**](https://arxiv.org/abs/1912.13170) *arXiv preprint* arXiv:1912.13170 (2019).
