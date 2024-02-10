@@ -131,3 +131,8 @@ Let me know if you have anything interesting to share!
 * Karagiannis, Georgios, and Christophe Andrieu. **"Annealed importance sampling reversible jump MCMC algorithms."** *Journal of Computational and Graphical Statistics* 22.3 (2013): 623-648.
 
 * Aubry, Mathieu, Sylvain Paris, Samuel W. Hasinoff, Jan Kautz, and Frédo Durand. [**"Fast local laplacian filters: Theory and applications."**](https://dl.acm.org/doi/10.1145/2629645) *ACM Transactions on Graphics* (TOG) 33.5 (2014): 1-14.
+
+
+* A. Dieuleveut, G. Fort, E. Moulines and H. -T. Wai, **"Stochastic Approximation Beyond Gradient for Signal Processing and Machine Learning,"** in *IEEE Transactions on Signal Processing*, vol. 71, pp. 3117-3148, 2023.
+  
+* Kunstner, Frederik, Raunak Kumar, and Mark Schmidt. **"Homeomorphic-invariance of em: Non-asymptotic convergence in kl divergence for exponential families via mirror descent."** International Conference on Artificial Intelligence and Statistics. PMLR, 2021.
