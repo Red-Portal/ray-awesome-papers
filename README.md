@@ -146,3 +146,5 @@ Let me know if you have anything interesting to share!
 * Durmus, Alain, Szymon Majewski, and Błażej Miasojedow. **"Analysis of Langevin Monte Carlo via convex optimization."** Journal of Machine Learning Research 20.73 (2019): 1-46
 
 * Lacoste–Julien, Simon, Ferenc Huszár, and Zoubin Ghahramani. **"Approximate inference for the loss-calibrated Bayesian."** Proceedings of the International Conference on Artificial Intelligence and Statistics. PMLR, 2011.
+
+* Akyildiz, Ö. Deniz, Francesca Romana Crucinio, Mark Girolami, Tim Johnston, and Sotirios Sabanis. **"Interacting particle langevin algorithm for maximum marginal likelihood estimation."** arXiv preprint arXiv:2303.13429 (2023).
