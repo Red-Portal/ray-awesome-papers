@@ -136,3 +136,9 @@ Let me know if you have anything interesting to share!
 * A. Dieuleveut, G. Fort, E. Moulines and H. -T. Wai, **"Stochastic Approximation Beyond Gradient for Signal Processing and Machine Learning,"** in *IEEE Transactions on Signal Processing*, vol. 71, pp. 3117-3148, 2023.
   
 * Kunstner, Frederik, Raunak Kumar, and Mark Schmidt. **"Homeomorphic-invariance of em: Non-asymptotic convergence in kl divergence for exponential families via mirror descent."** International Conference on Artificial Intelligence and Statistics. PMLR, 2021.
+
+* Altschuler, Jason M., and Pablo A. Parrilo. **"Acceleration by stepsize hedging II: Silver stepsize schedule for smooth convex optimization."** arXiv preprint arXiv:2309.16530 (2023).
+
+* Biron-Lattes, Miguel, Nikola Surjanovic, Saifuddin Syed, Trevor Campbell, and Alexandre Bouchard-Côté. **"autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm."** International Conference on Artificial Intelligence and Statistics. PMLR, 2024.
+
+* Taylor, Adrien, and Francis Bach. **"Stochastic first-order methods: non-asymptotic and computer-aided analyses via potential functions."** Conference on Learning Theory. PMLR, 2019.
