@@ -142,3 +142,7 @@ Let me know if you have anything interesting to share!
 * Biron-Lattes, Miguel, Nikola Surjanovic, Saifuddin Syed, Trevor Campbell, and Alexandre Bouchard-Côté. **"autoMALA: Locally adaptive Metropolis-adjusted Langevin algorithm."** International Conference on Artificial Intelligence and Statistics. PMLR, 2024.
 
 * Taylor, Adrien, and Francis Bach. **"Stochastic first-order methods: non-asymptotic and computer-aided analyses via potential functions."** Conference on Learning Theory. PMLR, 2019.
+
+* Durmus, Alain, Szymon Majewski, and Błażej Miasojedow. **"Analysis of Langevin Monte Carlo via convex optimization."** Journal of Machine Learning Research 20.73 (2019): 1-46
+
+* Lacoste–Julien, Simon, Ferenc Huszár, and Zoubin Ghahramani. **"Approximate inference for the loss-calibrated Bayesian."** Proceedings of the International Conference on Artificial Intelligence and Statistics. PMLR, 2011.
