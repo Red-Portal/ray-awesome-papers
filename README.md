@@ -148,5 +148,3 @@ Let me know if you have anything interesting to share!
 * Lacoste–Julien, Simon, Ferenc Huszár, and Zoubin Ghahramani. **"Approximate inference for the loss-calibrated Bayesian."** Proceedings of the International Conference on Artificial Intelligence and Statistics. PMLR, 2011.
 
 * Akyildiz, Ö. Deniz, Francesca Romana Crucinio, Mark Girolami, Tim Johnston, and Sotirios Sabanis. **"Interacting particle langevin algorithm for maximum marginal likelihood estimation."** arXiv preprint arXiv:2303.13429 (2023).
-
-* Doucet, Arnaud, Will Grathwohl, Alexander G. Matthews, and Heiko Strathmann. **"Score-based diffusion meets annealed importance sampling."** Advances in Neural Information Processing Systems 35 (2022): 21482-21494.
