@@ -148,3 +148,7 @@ Let me know if you have anything interesting to share!
 * Lacoste–Julien, Simon, Ferenc Huszár, and Zoubin Ghahramani. **"Approximate inference for the loss-calibrated Bayesian."** Proceedings of the International Conference on Artificial Intelligence and Statistics. PMLR, 2011.
 
 * Akyildiz, Ö. Deniz, Francesca Romana Crucinio, Mark Girolami, Tim Johnston, and Sotirios Sabanis. **"Interacting particle langevin algorithm for maximum marginal likelihood estimation."** arXiv preprint arXiv:2303.13429 (2023).
+
+* Fong, Edwin, Chris Holmes, and Stephen G. Walker. **"Martingale posterior distributions."** Journal of the Royal Statistical Society Series B: Statistical Methodology 85.5 (2023): 1357-1391.
+
+* Zamani, Moslem, and François Glineur. **"Exact convergence rate of the last iterate in subgradient methods."** arXiv preprint arXiv:2307.11134 (2023).
