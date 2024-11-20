@@ -152,3 +152,5 @@ Let me know if you have anything interesting to share!
 * Fong, Edwin, Chris Holmes, and Stephen G. Walker. **"Martingale posterior distributions."** Journal of the Royal Statistical Society Series B: Statistical Methodology 85.5 (2023): 1357-1391.
 
 * Zamani, Moslem, and François Glineur. **"Exact convergence rate of the last iterate in subgradient methods."** arXiv preprint arXiv:2307.11134 (2023).
+
+* Syed, Saifuddin, Alexandre Bouchard-Côté, Kevin Chern, and Arnaud Doucet. **"Optimised annealed sequential monte carlo samplers."** arXiv preprint arXiv:2408.12057 (2024).
